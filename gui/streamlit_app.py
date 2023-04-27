@@ -7,7 +7,7 @@ import streamlit as st
 import phind
 
 # Set cloudflare clearance and user agent
-phind.cloudflare_clearance = 'IJOM.F0pM_UdojbxoIZ4tqi2zPdWBBsTok8HEUpuiLg-1682603890-0-250'
+phind.cloudflare_clearance = 'oTON96mr.6uAkaq9DHEkM5pIuGNAeZiiTqvaa9xIscE-1682604965-0-160'
 phind.phind_api = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
 
 
